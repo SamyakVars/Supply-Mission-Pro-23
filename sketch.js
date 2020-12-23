@@ -67,13 +67,13 @@ function draw() {
   packageSprite.x= packageBody.position.x
   packageSprite.y= packageBody.position.y 
 
-  fill(0, 0, 255)
+  fill(255, 0, 0)
   rect(side1.position.x, side1.position.y, 20, 100)
   rect(side2.position.x, side2.position.y, 200, 20)
   rect(side3.position.x, side3.position.y, 20, 100)
 
 
-  fill(255, 0, 0)
+  fill(0, 255, 0)
   rect(270, 200, 10, 200)
   rect(525, 200, 10, 200)
   
