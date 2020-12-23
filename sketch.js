@@ -73,7 +73,7 @@ function draw() {
   rect(side3.position.x, side3.position.y, 20, 100)
 
 
-  fill(0, 255, 0)
+  fill(0, 240, 0)
   rect(270, 200, 10, 200)
   rect(525, 200, 10, 200)
   
